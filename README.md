@@ -1,4 +1,8 @@
-### Hi there 👋
+![scaler-create-impact](https://user-images.githubusercontent.com/98582981/200860996-b62d5868-d679-4035-82db-8288a4c077dd.gif)
+### Hi there, I'm Mary 👋
+
+![image](https://user-images.githubusercontent.com/98582981/200862681-94de46f1-8a6d-4ab5-8ac6-a3518956c162.png)
+
 
 
 Here are some ideas to get you started:
