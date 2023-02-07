@@ -2,7 +2,7 @@
 <div align="center">
   
   <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e479dppm7cgn1mmjmovhb9n1t4xmqe1sk0ah2crdgr8&rid=giphy.gif&ct=g" width="200"/>
   <div id="badges">
      <a href="#">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
