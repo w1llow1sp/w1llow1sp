@@ -10,7 +10,10 @@
   
 
 - 🔭 I’m currently working on [E-commerse landing](https://github.com/w1llow1sp/FormaLanding)  
-  
+
+
+- ⚡ In my free time, I solve problems on Codewars, read tech articles and watch tech videos on Youtube
+
 
 - 🤝 I’m looking for help with [Multipage Portfolio](https://github.com/w1llow1sp/react-photographer-multipage-portfolio)  
   
