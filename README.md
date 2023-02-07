@@ -1,12 +1,33 @@
 
-
-
 <div align="center">
+  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+     <a href="#">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+     <a href="https://www.codewars.com/users/w1llow1sp">
+       <img src="https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
+     </a>
+     <a href="https://t.me/AimlessPrayer">
+       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=w1llow1sp&style=flat-square&color=blue" alt="counter"/>
+  <h1>
+   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Maria,a junior frontend developer 👨‍💻 
+  </h1>
+</div>
+  <div align="center">
+</div>
+
+  
 <img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47y9w5ofegy3rx8s37qdjpzsxdpsdlbtlg1e6go27w&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Maria, a full-time styding  junior frontend developer 👨‍💻  </div>  
+### <div align="center"> </div>  
   
 
 - 🔭 I’m currently working on [E-commerse landing](https://github.com/w1llow1sp/FormaLanding)  
