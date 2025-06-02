@@ -26,13 +26,14 @@ const maria: Developer = {
   
   techStack: {
     frontend: ["React", "TypeScript", "Next.js", "Angular"],
-     backend: ["Node.js", "Express.js", "MongoDB", "Socket.IO", "Redis"],
+    backend: ["Node.js", "Express.js", "MongoDB", "Socket.IO", "Redis"],
     bots: ["Telegram Bot API", "Webhooks", "PostgreSQL", "Docker"],
     styling: ["Tailwind CSS", "Material-UI", "Styled Components", "SASS"],
-    tools: ["Git", "Webpack", "Vite", "Docker", "CI/CD", "Makefile", "ESLint", "Prettier"],
-       databases: ["MongoDB", "PostgreSQL", "Redis"],
+    tools: ["Git", "Webpack", "Vite", "Docker", "CI/CD", "Makefile", "ESLint", "Prettier", "Husky", "lint-staged"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
     cloud: ["Render", "Vercel", "Cloudinary"],
     testing: ["Jest", "Vitest", "Playwright", "React Testing Library"]
+
   },
   ## 🎯 Что я сейчас делаю
 
@@ -40,7 +41,7 @@ const maria: Developer = {
 
 - 🔭 **Работаю над:** E-commerce landing page с крутой анимацией
 - 🤖 **Разрабатываю ботов:** Telegram Shopping Bot с PostgreSQL, webhook-интеграцией и Docker
-- 🧪 **Пишу тесты:** Unit (Jest), E2E (Playwright), Component (React Testing Library)
+- 🧪 **Пишу тесты:** Unit (Jest), Integration (React Testing Library), E2E (Playwright)
 - 🌱 **Изучаю:** Advanced React patterns, Microservices, Docker, Bot Architecture, Redis caching
 - 👯 **Ищу помощь с:** Multipage Portfolio (хочу сделать его идеальным!)
 - 💬 **Спроси меня о:** React, TypeScript, Node.js, Telegram Bots, Testing, или любых веб-технологиях
@@ -58,8 +59,8 @@ specialties: [
     "🤖 Telegram Bot Development", 
     "⚡ Real-time Applications",
     "🛒 E-commerce Solutions",
-       "🐳 Docker & DevOps",
-    "🧪 Comprehensive Testing"
+    "🐳 Docker & DevOps",
+    "🧪 Comprehensive Testing (Unit, Integration, E2E)"
   ],
   
   dailyRoutine: [
@@ -117,5 +118,7 @@ specialties: [
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-42B883?style=for-the-badge&logo=git&logoColor=white)
+![lint-staged](https://img.shields.io/badge/lint--staged-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
