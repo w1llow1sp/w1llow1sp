@@ -1,109 +1,162 @@
+# 👋 Привет! Я Мария — Full-Stack разработчик 
 
 <div align="center">
   
-  <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif?cid=ecf05e479dppm7cgn1mmjmovhb9n1t4xmqe1sk0ah2crdgr8&rid=giphy.gif&ct=g" width="200"/>
-  <div id="badges">
-     <a href="#">
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-     </a>
-     <a href="https://www.codewars.com/users/w1llow1sp">
-       <img src="https://img.shields.io/badge/Codewars-grey?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
-     </a>
-     <a href="https://t.me/AimlessPrayer">
-       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=w1llow1sp&style=flat-square&color=blue" alt="counter"/>
-  <h1>
-   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Maria,a junior frontend developer 👨‍💻 
-  </h1>
-</div>
-  <div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+TypeScript+Expert;72+Repositories+%26+Counting;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
 </div>
 
-  
-<img src="https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47y9w5ofegy3rx8s37qdjpzsxdpsdlbtlg1e6go27w&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center"> </div>  
-  
-
-- 🔭 I’m currently working on [E-commerse landing](https://github.com/w1llow1sp/FormaLanding)  
-
-
-- ⚡ In my free time, I solve problems on Codewars, read tech articles and watch tech videos on Youtube
-
-
-- 🤝 I’m looking for help with [Multipage Portfolio](https://github.com/w1llow1sp/react-photographer-multipage-portfolio)  
-  
-
-- 👨‍💻 All of my projects are available at [https://github.com/w1llow1sp?tab=repositories](https://github.com/w1llow1sp?tab=repositories)
-  
-  
-
-- 📫 How to reach me **mari.74.front@gmail.com**  
-  
-
-<br/>  
-
-
-## 🛠 My Skill Set  
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="75" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="75" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="75" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="75" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="75" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="75" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-</div>  
-
-<br/>  
-
-
-## ☎ Connect with me  
 <div align="center">
-<a href="https://github.com/w1llow1sp" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/AimlessPrayer" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-%2324292e.svg?&style=for-the-badge&logo=Telegram&logoColor=26A5E4 alt=telegram style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:mari.74.front@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=EA4335 alt=Gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/smalldunk_sparrow" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
+![Profile Views](https://komarev.com/ghpvc/?username=w1llow1sp&color=6366f1&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/w1llow1sp?style=for-the-badge&color=6366f1)](https://github.com/w1llow1sp)
+[![GitHub stars](https://img.shields.io/github/stars/w1llow1sp?style=for-the-badge&color=6366f1)](https://github.com/w1llow1sp)
 
-<br/>  
+</div>
 
+## 🚀 О себе
 
-## ✨Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1llow1sp&hide_border=true&layout=compact" align="center" /></div>  
+```typescript
+const maria: Developer = {
+  location: "Магнитогорск, Россия 🇷🇺",
+  currentFocus: "Full-Stack Development",
+  repositories: 72,
+  achievements: ["Quickdraw", "Pull Shark x2", "YOLO"],
+  
+  techStack: {
+    frontend: ["React", "TypeScript", "Next.js", "Angular"],
+    backend: ["Node.js", "Express.js", "MongoDB", "Socket.IO"],
+    styling: ["Tailwind CSS", "Material-UI", "Styled Components", "SASS"],
+    tools: ["Git", "Webpack", "Vite", "Docker", "CI/CD"],
+    databases: ["MongoDB", "PostgreSQL"],
+    cloud: ["Render", "Vercel", "Cloudinary"]
+  },
+  
+  currentProjects: [
+    "💬 Chattify - Real-time chat app",
+    "🛒 E-commerce landing page", 
+    "📱 Telegram shopping bot",
+    "🎨 Multipage Portfolio"
+  ],
+  
+  dailyRoutine: [
+    "☕ Coffee",
+    "💻 Code", 
+    "🧩 Solve Codewars problems",
+    "📚 Read tech articles",
+    "🎥 Watch tech YouTube",
+    "🔄 Repeat"
+  ],
+  
+  motto: "Код — это поэзия, которую понимают машины ✨"
+};
+```
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=w1llow1sp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+## 🔥 Мои суперсилы
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=w1llow1sp&&style=flat-square" align="center" />
-</div>  
 
-<br />
+### 🎯 Frontend Мастерство
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+### 🛠️ Backend Волшебство  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### 🎨 Стилизация на высшем уровне
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+</div>
+
+## 📊 GitHub Статистика (да, я крутая! 😎)
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=w1llow1sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1llow1sp&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=w1llow1sp&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 Мои топовые проекты
+
+<div align="center">
+
+[![Chattify](https://github-readme-stats.vercel.app/api/pin/?username=w1llow1sp&repo=Chattify&theme=tokyonight)](https://github.com/w1llow1sp/Chattify)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=w1llow1sp&repo=Portfolio&theme=tokyonight)](https://github.com/w1llow1sp/Portfolio)
+[![tg-shopping-bot](https://github-readme-stats.vercel.app/api/pin/?username=w1llow1sp&repo=tg-shopping-bot&theme=tokyonight)](https://github.com/w1llow1sp/tg-shopping-bot)
+[![ITINCUBATOR-TODOLIST](https://github-readme-stats.vercel.app/api/pin/?username=w1llow1sp&repo=ITINCUBATOR-TODOLIST&theme=tokyonight)](https://github.com/w1llow1sp/ITINCUBATOR-TODOLIST)
+
+</div>
+
+## 🎯 Что я сейчас делаю
+
+- 🔭 **Работаю над:** E-commerce landing page с крутой анимацией
+- 🌱 **Изучаю:** Advanced React patterns, Microservices, Docker
+- 👯 **Ищу помощь с:** Multipage Portfolio (хочу сделать его идеальным!)
+- 💬 **Спроси меня о:** React, TypeScript, Node.js, или любых веб-технологиях
+- ⚡ **Факт:** Решаю задачи на Codewars каждый день! 🥷
+
+## 🏅 Мои достижения
+
+<div align="center">
+
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+
+**Quickdraw** • **Pull Shark x2** • **YOLO**
+
+</div>
+
+## 📈 Активность
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w1llow1sp&theme=tokyo-night&hide_border=true)
+
+</div>
+
+## 🤝 Давайте дружить!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mari.74.front@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/your-username)
+
+</div>
+
+## 💭 Цитата дня
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 "Каждая строчка кода — это шаг к идеальному решению" 🌟
+
+**Спасибо за визит! Не забудь поставить ⭐ моим проектам!**
+
+![Snake animation](https://github.com/w1llow1sp/w1llow1sp/blob/output/github-contribution-grid-snake.svg)
+
+</div>
