@@ -26,13 +26,13 @@ const maria: Developer = {
   
   techStack: {
     frontend: ["React", "TypeScript", "Next.js", "Angular"],
-    backend: ["Node.js", "Express.js", "MongoDB", "Socket.IO"],
+     backend: ["Node.js", "Express.js", "MongoDB", "Socket.IO", "Redis"],
     bots: ["Telegram Bot API", "Webhooks", "PostgreSQL", "Docker"],
     styling: ["Tailwind CSS", "Material-UI", "Styled Components", "SASS"],
     tools: ["Git", "Webpack", "Vite", "Docker", "CI/CD", "Makefile", "ESLint", "Prettier"],
-    databases: ["MongoDB", "PostgreSQL"],
+       databases: ["MongoDB", "PostgreSQL", "Redis"],
     cloud: ["Render", "Vercel", "Cloudinary"],
-    testing: ["Vitest", "Jest"]
+    testing: ["Jest", "Vitest", "Playwright", "React Testing Library"]
   },
   ## 🎯 Что я сейчас делаю
 
@@ -40,10 +40,11 @@ const maria: Developer = {
 
 - 🔭 **Работаю над:** E-commerce landing page с крутой анимацией
 - 🤖 **Разрабатываю ботов:** Telegram Shopping Bot с PostgreSQL, webhook-интеграцией и Docker
-- 🌱 **Изучаю:** Advanced React patterns, Microservices, Docker, Bot Architecture
+- 🧪 **Пишу тесты:** Unit (Jest), E2E (Playwright), Component (React Testing Library)
+- 🌱 **Изучаю:** Advanced React patterns, Microservices, Docker, Bot Architecture, Redis caching
 - 👯 **Ищу помощь с:** Multipage Portfolio (хочу сделать его идеальным!)
-- 💬 **Спроси меня о:** React, TypeScript, Node.js, Telegram Bots, или любых веб-технологиях
-- ⚡ **Факт:** Решаю задачи на Codewars каждый день и создаю ботов для автоматизации! 🥷🤖
+- 💬 **Спроси меня о:** React, TypeScript, Node.js, Telegram Bots, Testing, или любых веб-технологиях
+- ⚡ **Факт:** Решаю задачи на Codewars каждый день, создаю ботов и покрываю код тестами! 🥷🤖🧪
 
   currentProjects: [
     "💬 Chattify - Real-time chat app",
@@ -57,13 +58,15 @@ specialties: [
     "🤖 Telegram Bot Development", 
     "⚡ Real-time Applications",
     "🛒 E-commerce Solutions",
-    "🐳 Docker & DevOps"
+       "🐳 Docker & DevOps",
+    "🧪 Comprehensive Testing"
   ],
   
   dailyRoutine: [
     "☕ Coffee",
     "💻 Code",
     "🤖 Build bots",
+    "🧪 Write tests",
     "🧩 Solve Codewars problems",
     "📚 Read tech articles",
     "🎥 Watch tech YouTube",
@@ -90,6 +93,14 @@ specialties: [
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🧪 Testing & Quality Assurance
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
 
 ### 🤖 Bot Development Expertise
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -105,7 +116,6 @@ specialties: [
 ### 🔧 DevOps & Tools
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
