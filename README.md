@@ -1,4 +1,4 @@
-# 👋 Привет! Я Мария — Full-Stack разработчик 
+# 👋 Привет! Я Full-Stack разработчик 
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 ## 🚀 О себе
 
 ```typescript
-const maria: Developer = {
+const me: Developer = {
   location: "Магнитогорск, Россия 🇷🇺",
   currentFocus: "Full-Stack Development & Bot Development",
   repositories: 72,
