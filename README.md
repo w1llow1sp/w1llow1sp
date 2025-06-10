@@ -43,7 +43,6 @@ const me: Developer = {
 - 🤖 **Разрабатываю ботов:** Telegram Shopping Bot с PostgreSQL, webhook-интеграцией и Docker
 - 🧪 **Пишу тесты:** Unit (Jest), Integration (React Testing Library), E2E (Playwright)
 - 🌱 **Изучаю:** Advanced React patterns, Microservices, Docker, Bot Architecture, Redis caching
-- 👯 **Ищу помощь с:** Multipage Portfolio (хочу сделать его идеальным!)
 - 💬 **Спроси меня о:** React, TypeScript, Node.js, Telegram Bots, Testing, или любых веб-технологиях
 - ⚡ **Факт:** Решаю задачи на Codewars каждый день, создаю ботов и покрываю код тестами! 🥷🤖🧪
 
